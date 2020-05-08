@@ -3,4 +3,4 @@ PRODUCT_BUNDLE_IDENTIFIER = com.conocophillips.crt
 BUNDLE_DISPLAY_NAME = CRT
 BUNDLE_IDENTIFIER = com.conocophillips.crt
 
-RUNTIME_URL = http:\/\/localhost:8080
+RUNTIME_URL = https:\/\/crt100-accp.mendixcloud.com
